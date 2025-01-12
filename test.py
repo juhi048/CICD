@@ -9,4 +9,4 @@ def test_sub():
     assert sub(9,3) == 6
 
 def test_add():
-    assert add(1,2) == 5
+    assert add(1,2) == 3
